@@ -1,10 +1,8 @@
-package model;
+package org.example.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import net.bytebuddy.dynamic.loading.InjectionClassLoader;
-import org.hibernate.annotations.GeneratorType;
 
 import javax.persistence.*;
 
